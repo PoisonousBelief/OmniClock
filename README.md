@@ -26,6 +26,10 @@ OmniClock is constructed from **50 high-quality real-world clock templates**, or
 - Component-based synthesis to preserve the visual characteristics of each clock template
 - Accurate temporal annotations for both I2T and T2I tasks
 
+Download the dataset from the cloud drive:
+https://pan.baidu.com/s/1qXqUy-bUXXLBjb_5icEtWA?pwd=v3ir
+Extraction code: v3ir
+
 ## Tasks
 
 ### Image-to-Text (I2T)
